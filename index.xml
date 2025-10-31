@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>CEXI的博客</title>
+        <link>https://cexi2394.github.io/</link>
+        <description>Recent content on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 14:30:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：图像生成网站合集</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-tu-xiang-sheng-cheng/</link>
+        <pubDate>Fri, 31 Oct 2025 14:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-tu-xiang-sheng-cheng/</guid>
+        <description>&lt;h2 id=&#34;说明&#34;&gt;说明
+&lt;/h2&gt;&lt;p&gt;以下为可直接访问、常用于快速试验的在线演示或生成器，部分服务会随时调整是否需要登录或限流，请以站点实际情况为准。&lt;/p&gt;
+&lt;h2 id=&#34;示例网站&#34;&gt;示例网站
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（合集页，许多演示无需登录）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Craiyon（AI 绘图，免登录）：https://www.craiyon.com&lt;/li&gt;
+&lt;li&gt;This Person Does Not Exist（人脸生成示例）：https://thispersondoesnotexist.com&lt;/li&gt;
+&lt;li&gt;DeepAI 图像风格/转换演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stable Diffusion 在线演示（各类空间与 demo，可在 Hugging Face Spaces 搜索）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：图像生成网站合集</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-tu-xiang-sheng-cheng/</link>
+        <pubDate>Fri, 31 Oct 2025 14:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-tu-xiang-sheng-cheng/</guid>
+        <description>&lt;h2 id=&#34;说明&#34;&gt;说明
+&lt;/h2&gt;&lt;p&gt;以下为可直接访问、常用于快速试验的在线演示或生成器，部分服务会随时调整是否需要登录或限流，请以站点实际情况为准。&lt;/p&gt;
+&lt;h2 id=&#34;示例网站&#34;&gt;示例网站
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（合集页，许多演示无需登录）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Craiyon（AI 绘图，免登录）：https://www.craiyon.com&lt;/li&gt;
+&lt;li&gt;This Person Does Not Exist（人脸生成示例）：https://thispersondoesnotexist.com&lt;/li&gt;
+&lt;li&gt;DeepAI 图像风格/转换演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stable Diffusion 在线演示（各类空间与 demo，可在 Hugging Face Spaces 搜索）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>网页小游戏发布与运营：如何获取玩家</title>
+        <link>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-fabu-yun-ying/</link>
+        <pubDate>Fri, 31 Oct 2025 13:40:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-fabu-yun-ying/</guid>
+        <description>&lt;h2 id=&#34;发布渠道&#34;&gt;发布渠道
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Itch.io、Kongregate、Poki：面向玩家的分发平台。&lt;/li&gt;
+&lt;li&gt;自建静态站并部署到 Netlify / Vercel。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推广技巧&#34;&gt;推广技巧
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;制作可分享的短视频或 GIF（社交媒体传播）&lt;/li&gt;
+&lt;li&gt;在相关网页游戏论坛/Reddit/社群投稿&lt;/li&gt;
+&lt;li&gt;提供可嵌入的 iframe 试玩版方便媒体转载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意合规：若集成第三方广告或统计，需遵循隐私政策与用户告知。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页小游戏发布与运营：如何获取玩家</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-fabu-yun-ying/</link>
+        <pubDate>Fri, 31 Oct 2025 13:40:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-fabu-yun-ying/</guid>
+        <description>&lt;h2 id=&#34;发布渠道&#34;&gt;发布渠道
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Itch.io、Kongregate、Poki：面向玩家的分发平台。&lt;/li&gt;
+&lt;li&gt;自建静态站并部署到 Netlify / Vercel。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推广技巧&#34;&gt;推广技巧
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;制作可分享的短视频或 GIF（社交媒体传播）&lt;/li&gt;
+&lt;li&gt;在相关网页游戏论坛/Reddit/社群投稿&lt;/li&gt;
+&lt;li&gt;提供可嵌入的 iframe 试玩版方便媒体转载&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意合规：若集成第三方广告或统计，需遵循隐私政策与用户告知。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>轻松休闲：适合放松的网页小游戏推荐</title>
+        <link>https://cexi2394.github.io/en-us/posts/qing-song-xiu-xian-you-xi-tui-jian/</link>
+        <pubDate>Fri, 31 Oct 2025 13:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/qing-song-xiu-xian-you-xi-tui-jian/</guid>
+        <description>&lt;h2 id=&#34;推荐类型&#34;&gt;推荐类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;物理解谜（如切割类、弹射类）&lt;/li&gt;
+&lt;li&gt;节奏音乐游戏（短时放松）&lt;/li&gt;
+&lt;li&gt;放置类与模拟类（低交互成本）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例站点&#34;&gt;示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）&lt;/li&gt;
+&lt;li&gt;CoolMath Games（https://www.coolmathgames.com）&lt;/li&gt;
+&lt;li&gt;Itch.io（网页版小游戏合集）&lt;/li&gt;
+&lt;li&gt;经典街机小游戏合集站点（搜索 &amp;ldquo;HTML5 arcade&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>轻松休闲：适合放松的网页小游戏推荐</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/qing-song-xiu-xian-you-xi-tui-jian/</link>
+        <pubDate>Fri, 31 Oct 2025 13:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/qing-song-xiu-xian-you-xi-tui-jian/</guid>
+        <description>&lt;h2 id=&#34;推荐类型&#34;&gt;推荐类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;物理解谜（如切割类、弹射类）&lt;/li&gt;
+&lt;li&gt;节奏音乐游戏（短时放松）&lt;/li&gt;
+&lt;li&gt;放置类与模拟类（低交互成本）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例站点&#34;&gt;示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）&lt;/li&gt;
+&lt;li&gt;CoolMath Games（https://www.coolmathgames.com）&lt;/li&gt;
+&lt;li&gt;Itch.io（网页版小游戏合集）&lt;/li&gt;
+&lt;li&gt;经典街机小游戏合集站点（搜索 &amp;ldquo;HTML5 arcade&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>网页小游戏开发入门：HTML5 &#43; JS 快速上手</title>
+        <link>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-kai-fa-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 13:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-kai-fa-ru-men/</guid>
+        <description>&lt;h2 id=&#34;开发步骤概览&#34;&gt;开发步骤概览
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;选引擎：原生 Canvas、Phaser、PixiJS 等。&lt;/li&gt;
+&lt;li&gt;资源准备：图像、音效、关卡数据。&lt;/li&gt;
+&lt;li&gt;基础循环与渲染：requestAnimationFrame。&lt;/li&gt;
+&lt;li&gt;输入处理：键盘、鼠标、触控适配。&lt;/li&gt;
+&lt;li&gt;调试与性能优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用工具与框架&#34;&gt;常用工具与框架
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Phaser（https://phaser.io）&lt;/li&gt;
+&lt;li&gt;PixiJS（https://pixijs.com）&lt;/li&gt;
+&lt;li&gt;Howler.js（音效管理）&lt;/li&gt;
+&lt;li&gt;Netlify / Vercel（静态站点免费部署）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始建议：先做一个简单的贪吃蛇或打砖块完成端到端流程。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页小游戏开发入门：HTML5 &#43; JS 快速上手</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-kai-fa-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 13:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-kai-fa-ru-men/</guid>
+        <description>&lt;h2 id=&#34;开发步骤概览&#34;&gt;开发步骤概览
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;选引擎：原生 Canvas、Phaser、PixiJS 等。&lt;/li&gt;
+&lt;li&gt;资源准备：图像、音效、关卡数据。&lt;/li&gt;
+&lt;li&gt;基础循环与渲染：requestAnimationFrame。&lt;/li&gt;
+&lt;li&gt;输入处理：键盘、鼠标、触控适配。&lt;/li&gt;
+&lt;li&gt;调试与性能优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用工具与框架&#34;&gt;常用工具与框架
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Phaser（https://phaser.io）&lt;/li&gt;
+&lt;li&gt;PixiJS（https://pixijs.com）&lt;/li&gt;
+&lt;li&gt;Howler.js（音效管理）&lt;/li&gt;
+&lt;li&gt;Netlify / Vercel（静态站点免费部署）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始建议：先做一个简单的贪吃蛇或打砖块完成端到端流程。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页版多人联机小游戏推荐</title>
+        <link>https://cexi2394.github.io/en-us/posts/wang-ye-duo-ren-lian-ji-you-xi/</link>
+        <pubDate>Fri, 31 Oct 2025 13:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/wang-ye-duo-ren-lian-ji-you-xi/</guid>
+        <description>&lt;h2 id=&#34;特点&#34;&gt;特点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;无需客户端安装，只要浏览器即可加入。&lt;/li&gt;
+&lt;li&gt;支持即时匹配或房间玩法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推荐平台与示例&#34;&gt;推荐平台与示例
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Krunker.io（https://krunker.io）— 轻量 FPS。&lt;/li&gt;
+&lt;li&gt;Skribbl.io（https://skribbl.io）— 绘画猜词多人游戏。&lt;/li&gt;
+&lt;li&gt;Gartic Phone（https://garticphone.com）— 适合聚会的连环猜画。&lt;/li&gt;
+&lt;li&gt;Agar.io / Slither.io（多人休闲竞技）&lt;/li&gt;
+&lt;li&gt;Itch.io 的多人 HTML5 游戏标签页（https://itch.io）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;玩法提示：使用稳定网络与浏览器最新版本获得最佳体验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页版多人联机小游戏推荐</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/wang-ye-duo-ren-lian-ji-you-xi/</link>
+        <pubDate>Fri, 31 Oct 2025 13:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/wang-ye-duo-ren-lian-ji-you-xi/</guid>
+        <description>&lt;h2 id=&#34;特点&#34;&gt;特点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;无需客户端安装，只要浏览器即可加入。&lt;/li&gt;
+&lt;li&gt;支持即时匹配或房间玩法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推荐平台与示例&#34;&gt;推荐平台与示例
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Krunker.io（https://krunker.io）— 轻量 FPS。&lt;/li&gt;
+&lt;li&gt;Skribbl.io（https://skribbl.io）— 绘画猜词多人游戏。&lt;/li&gt;
+&lt;li&gt;Gartic Phone（https://garticphone.com）— 适合聚会的连环猜画。&lt;/li&gt;
+&lt;li&gt;Agar.io / Slither.io（多人休闲竞技）&lt;/li&gt;
+&lt;li&gt;Itch.io 的多人 HTML5 游戏标签页（https://itch.io）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;玩法提示：使用稳定网络与浏览器最新版本获得最佳体验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页版小游戏推荐：益智与休闲合集</title>
+        <link>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-yi-zhi-he-ji/</link>
+        <pubDate>Fri, 31 Oct 2025 13:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-yi-zhi-he-ji/</guid>
+        <description>&lt;h2 id=&#34;推荐理由&#34;&gt;推荐理由
+&lt;/h2&gt;&lt;p&gt;这些小游戏无需安装、加载快，适合短时间放松或练习逻辑思维。&lt;/p&gt;
+&lt;h2 id=&#34;推荐站点与游戏示例&#34;&gt;推荐站点与游戏（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）— 丰富的休闲与益智游戏。&lt;/li&gt;
+&lt;li&gt;Itch.io（https://itch.io）— 众多 HTML5 实验小游戏。&lt;/li&gt;
+&lt;li&gt;2048（https://gabrielecirulli.github.io/2048/）— 经典滑块益智。&lt;/li&gt;
+&lt;li&gt;Chrome Dino（离线小游戏，可在 chrome://dino 访问）&lt;/li&gt;
+&lt;li&gt;Snake / 贪吃蛇（多站点实现，可在线试玩）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：不同站点对广告政策不同，访问时注意浏览器弹窗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页版小游戏推荐：益智与休闲合集</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-yi-zhi-he-ji/</link>
+        <pubDate>Fri, 31 Oct 2025 13:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-yi-zhi-he-ji/</guid>
+        <description>&lt;h2 id=&#34;推荐理由&#34;&gt;推荐理由
+&lt;/h2&gt;&lt;p&gt;这些小游戏无需安装、加载快，适合短时间放松或练习逻辑思维。&lt;/p&gt;
+&lt;h2 id=&#34;推荐站点与游戏示例&#34;&gt;推荐站点与游戏（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）— 丰富的休闲与益智游戏。&lt;/li&gt;
+&lt;li&gt;Itch.io（https://itch.io）— 众多 HTML5 实验小游戏。&lt;/li&gt;
+&lt;li&gt;2048（https://gabrielecirulli.github.io/2048/）— 经典滑块益智。&lt;/li&gt;
+&lt;li&gt;Chrome Dino（离线小游戏，可在 chrome://dino 访问）&lt;/li&gt;
+&lt;li&gt;Snake / 贪吃蛇（多站点实现，可在线试玩）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：不同站点对广告政策不同，访问时注意浏览器弹窗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能的未来趋势：机会与挑战</title>
+        <link>https://cexi2394.github.io/en-us/posts/ai-wei-lai-qushi/</link>
+        <pubDate>Fri, 31 Oct 2025 12:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ai-wei-lai-qushi/</guid>
+        <description>&lt;h2 id=&#34;技术演进方向&#34;&gt;技术演进方向
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大模型与多模态：语言、视觉、音频融合的能力持续增强&lt;/li&gt;
+&lt;li&gt;高效学习：少样本学习、自监督学习将成为常态&lt;/li&gt;
+&lt;li&gt;边缘 AI：在设备端实现更强的实时性与隐私保护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;产业化趋势&#34;&gt;产业化趋势
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;行业定制化模型兴起（医疗、教育、金融等）&lt;/li&gt;
+&lt;li&gt;自动化与智能化工作流替代重复性劳动&lt;/li&gt;
+&lt;li&gt;人机协同成为主流：放大人类决策能力而非完全替代&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要挑战&#34;&gt;主要挑战
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;能耗与算力成本：训练/推理的环境与成本问题&lt;/li&gt;
+&lt;li&gt;法规与合规：跨国监管与标准尚不统一&lt;/li&gt;
+&lt;li&gt;社会影响：就业、教育与数字鸿沟需主动应对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结语：AI 的未来既充满机遇，也需谨慎治理与公平分配，让技术更好地服务于人类社会。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能的未来趋势：机会与挑战</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ai-wei-lai-qushi/</link>
+        <pubDate>Fri, 31 Oct 2025 12:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ai-wei-lai-qushi/</guid>
+        <description>&lt;h2 id=&#34;技术演进方向&#34;&gt;技术演进方向
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大模型与多模态：语言、视觉、音频融合的能力持续增强&lt;/li&gt;
+&lt;li&gt;高效学习：少样本学习、自监督学习将成为常态&lt;/li&gt;
+&lt;li&gt;边缘 AI：在设备端实现更强的实时性与隐私保护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;产业化趋势&#34;&gt;产业化趋势
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;行业定制化模型兴起（医疗、教育、金融等）&lt;/li&gt;
+&lt;li&gt;自动化与智能化工作流替代重复性劳动&lt;/li&gt;
+&lt;li&gt;人机协同成为主流：放大人类决策能力而非完全替代&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要挑战&#34;&gt;主要挑战
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;能耗与算力成本：训练/推理的环境与成本问题&lt;/li&gt;
+&lt;li&gt;法规与合规：跨国监管与标准尚不统一&lt;/li&gt;
+&lt;li&gt;社会影响：就业、教育与数字鸿沟需主动应对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结语：AI 的未来既充满机遇，也需谨慎治理与公平分配，让技术更好地服务于人类社会。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI工具</title>
+        <link>https://cexi2394.github.io/p/ai%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/ai%E5%B7%A5%E5%85%B7/</guid>
+        <description>&lt;h3 id=&#34;点我打开&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://doubao.com/chat&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点我打开&lt;/a&gt;
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>多人在线小游戏</title>
+        <link>https://cexi2394.github.io/p/%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E5%A4%9A%E4%BA%BA%E5%9C%A8%E7%BA%BF%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;h2 id=&#34;特点&#34;&gt;特点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;无需客户端安装，只要浏览器即可加入。&lt;/li&gt;
+&lt;li&gt;支持即时匹配或房间玩法。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;推荐平台与示例&#34;&gt;推荐平台与示例
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://krunker.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Krunker.io&lt;/a&gt;— 轻量 FPS。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://skribbl.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Skribbl.io&lt;/a&gt;— 绘画猜词多人游戏。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://garticphone.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Gartic Phone&lt;/a&gt;— 适合聚会的连环猜画。&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;Slither.io&#34; &gt;Agar.io &lt;/a&gt;（多人休闲竞技）&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://itch.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Itch.io &lt;/a&gt;多人 HTML5 游戏标签页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;玩法提示：使用稳定网络与浏览器最新版本获得最佳体验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的个人网盘</title>
+        <link>https://cexi2394.github.io/p/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%9B%98/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%9B%98/</guid>
+        <description>&lt;h3 id=&#34;点我打开&#34;&gt;&lt;a class=&#34;link&#34; href=&#34;https://fk88nk48401.vicp.fun/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;点我打开&lt;/a&gt;
+&lt;/h3&gt;</description>
+        </item>
+        <item>
+        <title>休闲小游戏</title>
+        <link>https://cexi2394.github.io/p/%E4%BC%91%E9%97%B2%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E4%BC%91%E9%97%B2%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;h2 id=&#34;推荐类型&#34;&gt;推荐类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;物理解谜（如切割类、弹射类）&lt;/li&gt;
+&lt;li&gt;节奏音乐游戏（短时放松）&lt;/li&gt;
+&lt;li&gt;放置类与模拟类（低交互成本）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例站点&#34;&gt;示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）&lt;/li&gt;
+&lt;li&gt;CoolMath Games（https://www.coolmathgames.com）&lt;/li&gt;
+&lt;li&gt;Itch.io（网页版小游戏合集）&lt;/li&gt;
+&lt;li&gt;经典街机小游戏合集站点（搜索 &amp;ldquo;HTML5 arcade&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>益智小游戏</title>
+        <link>https://cexi2394.github.io/p/%E7%9B%8A%E6%99%BA%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E7%9B%8A%E6%99%BA%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;h2 id=&#34;推荐理由&#34;&gt;推荐理由
+&lt;/h2&gt;&lt;p&gt;这些小游戏无需安装、加载快，适合短时间放松或练习逻辑思维。&lt;/p&gt;
+&lt;h2 id=&#34;推荐站点与游戏示例&#34;&gt;推荐站点与游戏（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Poki（https://poki.com）— 丰富的休闲与益智游戏。&lt;/li&gt;
+&lt;li&gt;Itch.io（https://itch.io）— 众多 HTML5 实验小游戏。&lt;/li&gt;
+&lt;li&gt;2048（https://gabrielecirulli.github.io/2048/）— 经典滑块益智。&lt;/li&gt;
+&lt;li&gt;Chrome Dino（离线小游戏，可在 chrome://dino 访问）&lt;/li&gt;
+&lt;li&gt;Snake / 贪吃蛇（多站点实现，可在线试玩）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：不同站点对广告政策不同，访问时注意浏览器弹窗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试文章</title>
+        <link>https://cexi2394.github.io/en-us/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+        <description>&lt;p&gt;###这里是文章内容&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试文章</title>
+        <link>https://cexi2394.github.io/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+        <description>&lt;p&gt;###这里是文章内容&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试文章</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+        <description>&lt;p&gt;###这里是文章内容&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的世界网页版</title>
+        <link>https://cexi2394.github.io/en-us/posts/mc%E7%BD%91%E9%A1%B5%E7%89%88/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mc%E7%BD%91%E9%A1%B5%E7%89%88/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mc.js.cool&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MC网页版链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的世界网页版</title>
+        <link>https://cexi2394.github.io/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BD%91%E9%A1%B5%E7%89%88/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E7%BD%91%E9%A1%B5%E7%89%88/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mc.js.cool&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MC网页版链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>我的世界网页版</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mc%E7%BD%91%E9%A1%B5%E7%89%88/</link>
+        <pubDate>Thu, 30 Oct 2025 16:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mc%E7%BD%91%E9%A1%B5%E7%89%88/</guid>
+        <description>&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://mc.js.cool&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;MC网页版链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>poki免费小游戏</title>
+        <link>https://cexi2394.github.io/en-us/posts/poki%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/poki%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;p&gt;免费在线小游戏game
+&lt;a class=&#34;link&#34; href=&#34;https://poki.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在线免登录小游戏&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>poki免费小游戏</title>
+        <link>https://cexi2394.github.io/p/poki%E5%85%8D%E8%B4%B9%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/poki%E5%85%8D%E8%B4%B9%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;p&gt;免费在线小游戏game
+&lt;a class=&#34;link&#34; href=&#34;https://poki.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在线免登录小游戏&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>poki免费小游戏</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/poki%E5%B0%8F%E6%B8%B8%E6%88%8F/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/poki%E5%B0%8F%E6%B8%B8%E6%88%8F/</guid>
+        <description>&lt;p&gt;免费在线小游戏game
+&lt;a class=&#34;link&#34; href=&#34;https://poki.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;在线免登录小游戏&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试 Stack 主题</title>
+        <link>https://cexi2394.github.io/en-us/posts/%E4%BB%8B%E7%BB%8D/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/%E4%BB%8B%E7%BB%8D/</guid>
+        <description>&lt;p&gt;这是使用 Stack 主题的第一篇测试文章！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试 Stack 主题</title>
+        <link>https://cexi2394.github.io/p/%E6%B5%8B%E8%AF%95-stack-%E4%B8%BB%E9%A2%98/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E6%B5%8B%E8%AF%95-stack-%E4%B8%BB%E9%A2%98/</guid>
+        <description>&lt;p&gt;这是使用 Stack 主题的第一篇测试文章！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>测试 Stack 主题</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/%E4%BB%8B%E7%BB%8D/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/%E4%BB%8B%E7%BB%8D/</guid>
+        <description>&lt;p&gt;这是使用 Stack 主题的第一篇测试文章！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>欢迎</title>
+        <link>https://cexi2394.github.io/en-us/posts/%E6%AC%A2%E8%BF%8E/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/%E6%AC%A2%E8%BF%8E/</guid>
+        <description>&lt;p&gt;###欢迎
+welcome！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>欢迎</title>
+        <link>https://cexi2394.github.io/p/%E6%AC%A2%E8%BF%8E/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/%E6%AC%A2%E8%BF%8E/</guid>
+        <description>&lt;p&gt;###欢迎
+welcome！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>欢迎</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/%E6%AC%A2%E8%BF%8E/</link>
+        <pubDate>Thu, 30 Oct 2025 15:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/%E6%AC%A2%E8%BF%8E/</guid>
+        <description>&lt;p&gt;###欢迎
+welcome！&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

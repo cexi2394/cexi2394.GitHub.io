@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>AI on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/ai/</link>
+        <description>Recent content in AI on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 12:00:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>人工智能的未来趋势：机会与挑战</title>
+        <link>https://cexi2394.github.io/en-us/posts/ai-wei-lai-qushi/</link>
+        <pubDate>Fri, 31 Oct 2025 12:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ai-wei-lai-qushi/</guid>
+        <description>&lt;h2 id=&#34;技术演进方向&#34;&gt;技术演进方向
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大模型与多模态：语言、视觉、音频融合的能力持续增强&lt;/li&gt;
+&lt;li&gt;高效学习：少样本学习、自监督学习将成为常态&lt;/li&gt;
+&lt;li&gt;边缘 AI：在设备端实现更强的实时性与隐私保护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;产业化趋势&#34;&gt;产业化趋势
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;行业定制化模型兴起（医疗、教育、金融等）&lt;/li&gt;
+&lt;li&gt;自动化与智能化工作流替代重复性劳动&lt;/li&gt;
+&lt;li&gt;人机协同成为主流：放大人类决策能力而非完全替代&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要挑战&#34;&gt;主要挑战
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;能耗与算力成本：训练/推理的环境与成本问题&lt;/li&gt;
+&lt;li&gt;法规与合规：跨国监管与标准尚不统一&lt;/li&gt;
+&lt;li&gt;社会影响：就业、教育与数字鸿沟需主动应对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结语：AI 的未来既充满机遇，也需谨慎治理与公平分配，让技术更好地服务于人类社会。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能的未来趋势：机会与挑战</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ai-wei-lai-qushi/</link>
+        <pubDate>Fri, 31 Oct 2025 12:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ai-wei-lai-qushi/</guid>
+        <description>&lt;h2 id=&#34;技术演进方向&#34;&gt;技术演进方向
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;大模型与多模态：语言、视觉、音频融合的能力持续增强&lt;/li&gt;
+&lt;li&gt;高效学习：少样本学习、自监督学习将成为常态&lt;/li&gt;
+&lt;li&gt;边缘 AI：在设备端实现更强的实时性与隐私保护&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;产业化趋势&#34;&gt;产业化趋势
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;行业定制化模型兴起（医疗、教育、金融等）&lt;/li&gt;
+&lt;li&gt;自动化与智能化工作流替代重复性劳动&lt;/li&gt;
+&lt;li&gt;人机协同成为主流：放大人类决策能力而非完全替代&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;主要挑战&#34;&gt;主要挑战
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;能耗与算力成本：训练/推理的环境与成本问题&lt;/li&gt;
+&lt;li&gt;法规与合规：跨国监管与标准尚不统一&lt;/li&gt;
+&lt;li&gt;社会影响：就业、教育与数字鸿沟需主动应对&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;结语：AI 的未来既充满机遇，也需谨慎治理与公平分配，让技术更好地服务于人类社会。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

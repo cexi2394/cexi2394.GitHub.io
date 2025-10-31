@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>伦理 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/%E4%BC%A6%E7%90%86/</link>
+        <description>Recent content in 伦理 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 10:00:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/%E4%BC%A6%E7%90%86/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>AI 伦理与治理：风险、原则与落地</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</link>
+        <pubDate>Fri, 31 Oct 2025 10:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ai-lun-li-yu-zhi-li/</guid>
+        <description>&lt;h2 id=&#34;常见伦理问题&#34;&gt;常见伦理问题
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;偏见与歧视：训练数据偏差导致决策不公&lt;/li&gt;
+&lt;li&gt;隐私泄露：模型与数据处理带来的个人信息风险&lt;/li&gt;
+&lt;li&gt;可解释性缺失：影响信任与监管&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;治理原则&#34;&gt;治理原则
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;透明性：公开模型用途与影响评估&lt;/li&gt;
+&lt;li&gt;责任制：明确决策链与责任承担方&lt;/li&gt;
+&lt;li&gt;公平性与可追溯性：监测偏差并保留审计日志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;落地建议&#34;&gt;落地建议
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在产品生命周期中嵌入伦理评估（数据采集、标注、上线）&lt;/li&gt;
+&lt;li&gt;使用差分隐私、联邦学习等技术降低数据风险&lt;/li&gt;
+&lt;li&gt;建立跨学科团队（技术 + 法务 + 道德顾问）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;AI 的价值与风险并存，良好的治理能在保障安全的同时释放技术红利。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

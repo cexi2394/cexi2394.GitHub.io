@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>HTML5 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/html5/</link>
+        <description>Recent content in HTML5 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 13:20:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/html5/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>网页小游戏开发入门：HTML5 &#43; JS 快速上手</title>
+        <link>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-kai-fa-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 13:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/wang-ye-you-xi-kai-fa-ru-men/</guid>
+        <description>&lt;h2 id=&#34;开发步骤概览&#34;&gt;开发步骤概览
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;选引擎：原生 Canvas、Phaser、PixiJS 等。&lt;/li&gt;
+&lt;li&gt;资源准备：图像、音效、关卡数据。&lt;/li&gt;
+&lt;li&gt;基础循环与渲染：requestAnimationFrame。&lt;/li&gt;
+&lt;li&gt;输入处理：键盘、鼠标、触控适配。&lt;/li&gt;
+&lt;li&gt;调试与性能优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用工具与框架&#34;&gt;常用工具与框架
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Phaser（https://phaser.io）&lt;/li&gt;
+&lt;li&gt;PixiJS（https://pixijs.com）&lt;/li&gt;
+&lt;li&gt;Howler.js（音效管理）&lt;/li&gt;
+&lt;li&gt;Netlify / Vercel（静态站点免费部署）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始建议：先做一个简单的贪吃蛇或打砖块完成端到端流程。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>网页小游戏开发入门：HTML5 &#43; JS 快速上手</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-kai-fa-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 13:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/wang-ye-you-xi-kai-fa-ru-men/</guid>
+        <description>&lt;h2 id=&#34;开发步骤概览&#34;&gt;开发步骤概览
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;选引擎：原生 Canvas、Phaser、PixiJS 等。&lt;/li&gt;
+&lt;li&gt;资源准备：图像、音效、关卡数据。&lt;/li&gt;
+&lt;li&gt;基础循环与渲染：requestAnimationFrame。&lt;/li&gt;
+&lt;li&gt;输入处理：键盘、鼠标、触控适配。&lt;/li&gt;
+&lt;li&gt;调试与性能优化。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;常用工具与框架&#34;&gt;常用工具与框架
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Phaser（https://phaser.io）&lt;/li&gt;
+&lt;li&gt;PixiJS（https://pixijs.com）&lt;/li&gt;
+&lt;li&gt;Howler.js（音效管理）&lt;/li&gt;
+&lt;li&gt;Netlify / Vercel（静态站点免费部署）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;开始建议：先做一个简单的贪吃蛇或打砖块完成端到端流程。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

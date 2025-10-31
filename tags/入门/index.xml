@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>入门 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/%E5%85%A5%E9%97%A8/</link>
+        <description>Recent content in 入门 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 09:00:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/%E5%85%A5%E9%97%A8/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>人工智能入门：从概念到实践</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</link>
+        <pubDate>Fri, 31 Oct 2025 09:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/ren-gong-zhi-neng-ru-men/</guid>
+        <description>&lt;h2 id=&#34;什么是人工智能&#34;&gt;什么是人工智能
+&lt;/h2&gt;&lt;p&gt;人工智能（AI）是使机器表现出类似人类智能能力的技术集合，包含感知、推理、学习与决策等能力。&lt;/p&gt;
+&lt;h2 id=&#34;关键概念&#34;&gt;关键概念
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;监督学习、无监督学习、强化学习&lt;/li&gt;
+&lt;li&gt;模型、参数、训练集与验证集&lt;/li&gt;
+&lt;li&gt;过拟合、泛化能力&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;常见算法与工具&#34;&gt;常见算法与工具
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;经典算法：线性回归、决策树、SVM、K-means&lt;/li&gt;
+&lt;li&gt;深度学习框架：TensorFlow、PyTorch&lt;/li&gt;
+&lt;li&gt;开发流程：数据采集 → 清洗 → 建模 → 评估 → 部署&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;快速入门建议&#34;&gt;快速入门建议
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;学习 Python 与基础数学（线代、概率）&lt;/li&gt;
+&lt;li&gt;完成一个端到端项目（例如图像分类或简单的推荐系统）&lt;/li&gt;
+&lt;li&gt;熟悉模型评估指标与调参技巧&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;人工智能实践重在动手与持续迭代，建议用小项目积累经验。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
