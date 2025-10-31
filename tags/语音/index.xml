@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>语音 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/%E8%AF%AD%E9%9F%B3/</link>
+        <description>Recent content in 语音 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 14:20:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/%E8%AF%AD%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

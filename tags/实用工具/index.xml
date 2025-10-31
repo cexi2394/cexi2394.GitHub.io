@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>实用工具 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/</link>
+        <description>Recent content in 实用工具 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 14:30:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

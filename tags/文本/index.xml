@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>文本 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/tags/%E6%96%87%E6%9C%AC/</link>
+        <description>Recent content in 文本 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 14:10:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/tags/%E6%96%87%E6%9C%AC/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
