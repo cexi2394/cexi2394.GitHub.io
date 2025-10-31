@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>工具 on CEXI的博客</title>
+        <link>https://cexi2394.github.io/categories/%E5%B7%A5%E5%85%B7/</link>
+        <description>Recent content in 工具 on CEXI的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Example Person</copyright>
+        <lastBuildDate>Fri, 31 Oct 2025 14:30:00 +0800</lastBuildDate><atom:link href="https://cexi2394.github.io/categories/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 小工具汇总（图片编辑、去背景、快速 OCR 等）</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</link>
+        <pubDate>Fri, 31 Oct 2025 14:30:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-xiao-gong-ju-hui-zong/</guid>
+        <description>&lt;h2 id=&#34;常见类别与示例站点&#34;&gt;常见类别与示例站点
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;在线图像编辑（Photopea）：https://www.photopea.com&lt;/li&gt;
+&lt;li&gt;去背景/抠图（有些站点提供免登录 demo，具体以站点为准）&lt;/li&gt;
+&lt;li&gt;OCR 与文字识别在线 demo（搜索 OCR demo）&lt;/li&gt;
+&lt;li&gt;图片放大/降噪在线演示（许多在 Hugging Face Spaces 提供）&lt;/li&gt;
+&lt;li&gt;各类转换小工具（格式转换、颜色化、着色等）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费免登录服务适合测试与个人非商业用途；正式项目请关注授权与使用条款。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：音频与语音处理</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</link>
+        <pubDate>Fri, 31 Oct 2025 14:20:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-yin-pin-yu-yu-yin/</guid>
+        <description>&lt;h2 id=&#34;常见类型&#34;&gt;常见类型
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;语音合成（TTS）在线 demo&lt;/li&gt;
+&lt;li&gt;语音转写（ASR）演示&lt;/li&gt;
+&lt;li&gt;声音风格转换与音频修复演示&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;示例入口&#34;&gt;示例入口
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（搜索 speech/tts/asr 空间）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Demo 型语音合成/转写站点（多为研究组或开源项目托管）&lt;/li&gt;
+&lt;li&gt;DeepAI 与其他研究 demo 集合页&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;注意：音频 demo 通常受文件大小与时长限制，适合短样本测试。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：文本生成与写作辅助</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</link>
+        <pubDate>Fri, 31 Oct 2025 14:10:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-wen-ben-xie-zuo/</guid>
+        <description>&lt;h2 id=&#34;推荐站点示例&#34;&gt;推荐站点（示例）
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（多种文本模型演示）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;DeepAI 文本生成演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Talk to Transformer 的公开演示（历史演示/部分空间）：可在 Hugging Face Spaces 找到类似演示&lt;/li&gt;
+&lt;li&gt;简易关键词扩展器/标题生成小工具（多为个人空间）&lt;/li&gt;
+&lt;li&gt;各类开源模型的在线 demo（搜索 &amp;ldquo;text-generation demo&amp;rdquo;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;提示：免费演示多为速率受限或有长度限制，适合快速试验。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：图像生成网站合集</title>
+        <link>https://cexi2394.github.io/en-us/posts/mian-fei-ai-tu-xiang-sheng-cheng/</link>
+        <pubDate>Fri, 31 Oct 2025 14:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/mian-fei-ai-tu-xiang-sheng-cheng/</guid>
+        <description>&lt;h2 id=&#34;说明&#34;&gt;说明
+&lt;/h2&gt;&lt;p&gt;以下为可直接访问、常用于快速试验的在线演示或生成器，部分服务会随时调整是否需要登录或限流，请以站点实际情况为准。&lt;/p&gt;
+&lt;h2 id=&#34;示例网站&#34;&gt;示例网站
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（合集页，许多演示无需登录）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Craiyon（AI 绘图，免登录）：https://www.craiyon.com&lt;/li&gt;
+&lt;li&gt;This Person Does Not Exist（人脸生成示例）：https://thispersondoesnotexist.com&lt;/li&gt;
+&lt;li&gt;DeepAI 图像风格/转换演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stable Diffusion 在线演示（各类空间与 demo，可在 Hugging Face Spaces 搜索）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>免费免登录 AI 工具：图像生成网站合集</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-tu-xiang-sheng-cheng/</link>
+        <pubDate>Fri, 31 Oct 2025 14:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/mian-fei-ai-tu-xiang-sheng-cheng/</guid>
+        <description>&lt;h2 id=&#34;说明&#34;&gt;说明
+&lt;/h2&gt;&lt;p&gt;以下为可直接访问、常用于快速试验的在线演示或生成器，部分服务会随时调整是否需要登录或限流，请以站点实际情况为准。&lt;/p&gt;
+&lt;h2 id=&#34;示例网站&#34;&gt;示例网站
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Hugging Face Spaces（合集页，许多演示无需登录）：https://huggingface.co/spaces&lt;/li&gt;
+&lt;li&gt;Craiyon（AI 绘图，免登录）：https://www.craiyon.com&lt;/li&gt;
+&lt;li&gt;This Person Does Not Exist（人脸生成示例）：https://thispersondoesnotexist.com&lt;/li&gt;
+&lt;li&gt;DeepAI 图像风格/转换演示： &lt;a class=&#34;link&#34; href=&#34;https://deepai.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://deepai.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Stable Diffusion 在线演示（各类空间与 demo，可在 Hugging Face Spaces 搜索）&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/en-us/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/p/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>常用 AI 工具与实践：从数据到部署</title>
+        <link>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</link>
+        <pubDate>Fri, 31 Oct 2025 11:00:00 +0800</pubDate>
+        
+        <guid>https://cexi2394.github.io/zh-cn/posts/chang-yong-ai-gong-ju/</guid>
+        <description>&lt;h2 id=&#34;数据处理&#34;&gt;数据处理
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;pandas / Dask：表格数据清洗与处理&lt;/li&gt;
+&lt;li&gt;OpenCV / Pillow：图像预处理&lt;/li&gt;
+&lt;li&gt;LabelStudio：数据标注平台&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;建模与训练&#34;&gt;建模与训练
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;PyTorch / TensorFlow：主流深度学习框架&lt;/li&gt;
+&lt;li&gt;scikit-learn：传统机器学习算法与快速验证&lt;/li&gt;
+&lt;li&gt;Hugging Face：预训练模型与 Transformer 生态&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;模型部署与监控&#34;&gt;模型部署与监控
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FastAPI / Flask：轻量化模型服务&lt;/li&gt;
+&lt;li&gt;Docker / Kubernetes：容器化与弹性伸缩&lt;/li&gt;
+&lt;li&gt;Prometheus + Grafana：性能与质量监控&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;实战提示&#34;&gt;实战提示
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;模型轻量化与优化（量化、蒸馏）提升部署效率&lt;/li&gt;
+&lt;li&gt;建立 CI/CD 流水线实现自动化训练与发布&lt;/li&gt;
+&lt;li&gt;监控线上数据漂移并定期回训&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;把工具链与标准化流程打通，是把 AI 产出变成稳定服务的关键。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
